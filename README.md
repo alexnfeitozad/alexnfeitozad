@@ -1,7 +1,34 @@
 # 👋 Alex Feitoza
 
 ## Senior Software Engineer | Liderança Técnica | .NET | Arquitetura de Software | Integrações Corporativas
- 
+ <p align="center">
+
+<a href="https://www.youtube.com/@alexnfeitozafeitoza" target="_blank">
+    <img 
+        alt="YouTube"
+        title="Inscreva-se no meu canal"
+        src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+    />
+</a>
+
+<a href="https://www.linkedin.com/in/alex-feitoza-6056a5237/" target="_blank">
+    <img 
+        alt="LinkedIn"
+        title="Meu LinkedIn"
+        src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Meu%20Perfil-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"
+    />
+</a>
+
+<a href="https://www.facebook.com/alexdevelopnet" target="_blank">
+    <img 
+        alt="Facebook"
+        title="Meu Facebook"
+        src="https://custom-icon-badges.demolab.com/badge/Facebook-Meu%20Perfil-1877F2?logo=facebook&logoColor=white&style=for-the-badge"
+    />
+</a>
+
+</p>
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
