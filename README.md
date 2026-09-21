@@ -2,11 +2,7 @@
 
 ## Senior Software Engineer | Liderança Técnica | .NET | Arquitetura de Software | Integrações Corporativas
 
-
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
+ https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 Profissional com mais de 14 anos de experiência em desenvolvimento de software, com foco em .NET, APIs, sistemas corporativos, integrações entre plataformas e bancos de dados relacionais.
 
