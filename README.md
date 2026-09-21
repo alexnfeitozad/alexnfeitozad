@@ -2,6 +2,12 @@
 
 ## Senior Software Engineer | Liderança Técnica | .NET | Arquitetura de Software | Integrações Corporativas
 
+
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+
 Profissional com mais de 14 anos de experiência em desenvolvimento de software, com foco em .NET, APIs, sistemas corporativos, integrações entre plataformas e bancos de dados relacionais.
 
 Experiência na construção e sustentação de aplicações backend, APIs REST, serviços distribuídos e soluções de missão crítica nos setores financeiro, seguros, indústria, logística e documentos de segurança.
