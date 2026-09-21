@@ -1,264 +1,104 @@
 # 👋 Alex Feitoza
 
-## Senior Software Engineer | Liderança Técnica | .NET | Arquitetura de Software | Integrações Corporativas
- <p align="center">
+## Senior Software Engineer | Tech Lead | .NET | Arquitetura de Software | Integrações Corporativas
+
+Desenvolvedor de software com **mais de 14 anos de experiência**, especializado no ecossistema **.NET/C#**, desenvolvimento de APIs, sistemas corporativos, integrações e arquitetura de software.
+
+Atuação hands-on em desenvolvimento, sustentação, troubleshooting, definição de soluções, decisões arquiteturais, code review e direcionamento técnico.
+
+Experiência com sistemas distribuídos, microsserviços, mensageria, ERPs, CRMs e integrações entre diferentes plataformas.
+
+---
+
+<p align="center">
 
 <a href="https://www.youtube.com/@alexnfeitozafeitoza" target="_blank">
-    <img 
-        alt="YouTube"
-        title="Inscreva-se no meu canal"
-        src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-    />
+  <img 
+    src="https://custom-icon-badges.demolab.com/badge/YouTube-Inscreva--se-E05D44?logo=youtube&logoColor=white&style=for-the-badge"
+    alt="YouTube"
+    title="Inscreva-se no meu canal"
+  />
 </a>
 
 <a href="https://www.linkedin.com/in/alex-feitoza-6056a5237/" target="_blank">
-    <img 
-        alt="LinkedIn"
-        title="Meu LinkedIn"
-        src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Meu%20Perfil-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"
-    />
+  <img 
+    src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Conecte--se-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"
+    alt="LinkedIn"
+    title="Conecte-se comigo no LinkedIn"
+  />
 </a>
 
 <a href="https://www.facebook.com/alexdevelopnet" target="_blank">
-    <img 
-        alt="Facebook"
-        title="Meu Facebook"
-        src="https://custom-icon-badges.demolab.com/badge/Facebook-Meu%20Perfil-1877F2?logo=facebook&logoColor=white&style=for-the-badge"
-    />
+  <img 
+    src="https://custom-icon-badges.demolab.com/badge/Facebook-Siga--me-1877F2?logo=facebook&logoColor=white&style=for-the-badge"
+    alt="Facebook"
+    title="Siga-me no Facebook"
+  />
+</a>
+
+<a href="https://github.com/anfsusax" target="_blank">
+  <img 
+    src="https://custom-icon-badges.demolab.com/badge/GitHub-Projetos-181717?logo=github&logoColor=white&style=for-the-badge"
+    alt="GitHub"
+    title="Veja meus projetos"
+  />
+</a>
+
+<a href="https://arquitetura-microservicos-dotnet.vercel.app/" target="_blank">
+  <img 
+    src="https://custom-icon-badges.demolab.com/badge/Portfólio-Conheça-6C63FF?logo=globe&logoColor=white&style=for-the-badge"
+    alt="Portfólio"
+    title="Conheça meu portfólio"
+  />
 </a>
 
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🧠 Principais Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<p align="center">
 
-<br/>
-<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45" title="C#" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="45" title=".NET" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="45" title="Angular" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" title="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" width="45" title="Blazor" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" title="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" title="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" title="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" title="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" title="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" title="Git" />
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-Profissional com mais de 14 anos de experiência em desenvolvimento de software, com foco em .NET, APIs, sistemas corporativos, integrações entre plataformas e bancos de dados relacionais.
-
-Experiência na construção e sustentação de aplicações backend, APIs REST, serviços distribuídos e soluções de missão crítica nos setores financeiro, seguros, indústria, logística e documentos de segurança.
-
-Perfil hands-on, combinando desenvolvimento com análise e definição de soluções, decisões arquiteturais, direcionamento técnico, apoio a desenvolvedores, troubleshooting e entrega de soluções sustentáveis.
-
----
-
-## 💼 Experiência recente
-
-### Rennova — Desenvolvedor .NET / Integrações Corporativas
-
-**12/06/2026 — 01/07/2026**
-
-Integrações entre SAP, Salesforce e sistemas internos utilizando C#, .NET Core, Windows Forms, SQL Server, Hangfire e mensageria.
-
-### Thomas Greg do Brasil — Senior Systems Analyst
-
-**2023 — 12/2025**
-
-Desenvolvimento e evolução de sistemas corporativos estratégicos, APIs REST, integrações ERP/CRM, padrões técnicos e evolução arquitetural.
-
-### Experiências anteriores
-
-* CSN — Software Developer (2021–2023)
-* Porto Seguro — Senior Software Developer (2019–2021)
-* Banco Carrefour — Software Developer (2018–2019)
-
----
-
-## 🚀 Áreas de Especialização
-
-### Arquitetura de Software
-
-* Clean Architecture
-* DDD
-* CQRS
-* SOLID
-* Repository Pattern
-* Unit of Work
-
-### Liderança Técnica
-
-* Definição e direcionamento de soluções
-* Decisões arquiteturais
-* Apoio técnico e Code Review
-* Análise de riscos técnicos
-* Troubleshooting e análise de causa raiz
-* Interface entre negócio e tecnologia
-
-### Sistemas Distribuídos
-
-* Microsserviços
-* RabbitMQ
-* Apache Kafka
-* Comunicação Assíncrona
-* Event-Driven Architecture
-
-### Integrações Corporativas
-
-* SAP Business One
-* Salesforce
-* APIs REST
-* ETL
-* Mensageria
-
-### Engenharia de Conhecimento
-
-* Modelagem de Domínio
-* Knowledge Graph
-* Ontologias
-* Arquitetura da Informação
-* Relacionamentos Semânticos
-
----
-
-## 🛠 Stack Tecnológica
+</p>
 
 ### Backend
 
 * C#
-* .NET
-* .NET Framework
-* .NET Core
+* .NET 8 / .NET 10
 * ASP.NET Core
-* Windows Forms
-* ASP.NET WebForms
-* WCF e SOAP
+* ASP.NET Web API
 * Entity Framework Core
 * Dapper
+* Windows Forms
+* WCF / SOAP
+* REST APIs
 
-### Banco de Dados
+### Frontend
+
+* Angular
+* React
+* Blazor
+* TypeScript
+* JavaScript
+* HTML5
+* CSS
+* Bootstrap
+* Tailwind CSS
+
+### Bancos de Dados
 
 * SQL Server
 * PostgreSQL
@@ -266,114 +106,300 @@ Desenvolvimento e evolução de sistemas corporativos estratégicos, APIs REST, 
 * Oracle
 * SQLite
 
-### DevOps
+### Arquitetura
+
+* Clean Architecture
+* Domain-Driven Design — DDD
+* CQRS
+* SOLID
+* Repository Pattern
+* Unit of Work
+* Event-Driven Architecture
+* Microsserviços
+* APIs REST
+* Integração entre sistemas
+* Idempotência
+* Resiliência
+* Observabilidade
+
+### Mensageria e Processamento Assíncrono
+
+* Apache Kafka
+* RabbitMQ
+* Amazon SQS
+* Hangfire
+
+### DevOps e Cloud
 
 * Docker
 * Docker Compose
 * Azure DevOps
 * CI/CD
-
-### Cloud e Mensageria
-
 * AWS Lambda
+* Amazon API Gateway
 * Amazon SQS
-* API Gateway
-* Kafka
-* RabbitMQ
-* Hangfire
-
-### Integrações e Legado
-
-* SAP
-* Salesforce
-* Web Services
-* XML
-* Report Server
-* Git
+* CloudWatch
 
 ### Observabilidade
 
 * Serilog
 * OpenTelemetry
+* Logging estruturado
+* Tracing
+* Monitoramento de integrações
+* Troubleshooting
+* Análise de causa raiz
 
-### Frontend
+### Integrações Corporativas
 
-* Blazor
-* Angular
-* TypeScript
+* SAP Business One
+* SAP DI API
+* SAP Service Layer
+* Salesforce
+* APIs REST
+* SOAP / Web Services
+* XML
+* ETL
+* Sistemas ERP / CRM
 
 ---
 
-## 📂 Projetos
+## 🏗️ Arquitetura & Engenharia de Software
 
-### 🏦 [BankMore](https://github.com/anfsusax/bankmore-microservices)
+Minha atuação vai além da implementação de funcionalidades.
 
-Plataforma bancária baseada em microsserviços.
+Trabalho principalmente com:
 
-Tecnologias:
+```text
+┌──────────────────────────────────────────────┐
+│              Arquitetura de Software         │
+├──────────────────────────────────────────────┤
+│ Clean Architecture                           │
+│ Domain-Driven Design                         │
+│ SOLID                                        │
+│ CQRS                                         │
+│ Microsserviços                               │
+│ Event-Driven Architecture                    │
+├──────────────────────────────────────────────┤
+│ Integrações                                  │
+├──────────────────────────────────────────────┤
+│ SAP • Salesforce • APIs • Mensageria         │
+├──────────────────────────────────────────────┤
+│ Engenharia                                   │
+├──────────────────────────────────────────────┤
+│ Observabilidade • Resiliência • Idempotência │
+│ Testes • CI/CD • Docker • Cloud              │
+└──────────────────────────────────────────────┘
+```
+
+### Liderança Técnica
+
+* Definição e direcionamento de soluções
+* Decisões arquiteturais
+* Code Review
+* Mentoria e apoio técnico
+* Análise de riscos
+* Troubleshooting
+* Análise de causa raiz
+* Evolução arquitetural
+* Interface entre negócio e tecnologia
+
+---
+
+## 💼 Experiência Profissional
+
+### Rennova — Desenvolvedor .NET / Integrações Corporativas
+
+**06/2026 — 07/2026**
+
+Atuação em integrações entre **SAP, Salesforce e sistemas internos**, utilizando C#, .NET, SQL Server, Windows Forms, Hangfire e mensageria.
+
+Principais atividades:
+
+* Desenvolvimento e manutenção de integrações
+* APIs e serviços .NET
+* Integrações SAP
+* Integrações Salesforce
+* Investigação de falhas
+* Troubleshooting
+* Análise de inconsistências
+* Automação de processos
+
+### Thomas Greg do Brasil — Senior Systems Analyst
+
+**2023 — 2025**
+
+Desenvolvimento e evolução de sistemas corporativos estratégicos.
+
+Atuação com:
+
+* APIs REST
+* Integrações ERP / CRM
+* .NET / C#
+* SQL Server
+* Arquitetura de soluções
+* Padrões técnicos
+* Evolução de sistemas existentes
+
+### CSN — Software Developer
+
+**2021 — 2023**
+
+Desenvolvimento e manutenção de sistemas corporativos.
+
+### Porto Seguro — Senior Software Developer
+
+**2019 — 2021**
+
+Desenvolvimento de soluções e sistemas corporativos.
+
+### Banco Carrefour — Software Developer
+
+**2018 — 2019**
+
+Desenvolvimento de sistemas para o setor financeiro.
+
+---
+
+## 🚀 Projetos
+
+### 🏦 BankMore
+
+[![BankMore](https://img.shields.io/badge/GitHub-BankMore-181717?style=for-the-badge\&logo=github)](https://github.com/anfsusax/bankmore-microservices)
+
+Plataforma bancária baseada em arquitetura de microsserviços.
+
+**Tecnologias:**
 
 * .NET
+* C#
 * Clean Architecture
 * DDD
 * CQRS
 * JWT
 * Kafka
 * Docker
-* Testes Automatizados
+* Testes automatizados
 
-Objetivo:
-
-Simular padrões utilizados por fintechs modernas.
+Projeto criado para estudar e aplicar padrões utilizados em sistemas financeiros distribuídos.
 
 ---
 
-### ☁️ [AWS Lambda com C#](https://github.com/anfsusax/lambda-aws-Local)
+### ☁️ AWS Lambda com C#
 
-Projeto de aprendizado sobre desenvolvimento, teste local e deploy de funções AWS Lambda utilizando C# e .NET.
+[![AWS Lambda](https://img.shields.io/badge/GitHub-AWS%20Lambda-181717?style=for-the-badge\&logo=github)](https://github.com/anfsusax/lambda-aws-Local)
 
-Principais tecnologias e conceitos:
+Projeto de estudo sobre desenvolvimento de aplicações serverless utilizando C# e .NET.
 
-* .NET 10 e C#
+**Tecnologias:**
+
+* .NET 10
+* C#
 * AWS Lambda
 * API Gateway
 * Dependency Injection
-* CloudWatch e logging
-* Testes locais de funções serverless
+* CloudWatch
+* Testes locais
 
 ---
 
-### 🏛 [Architect Academy](https://github.com/alexnfeitozad/ArchitectAcademy)
+### 🏛️ Architect Academy
 
-Universidade virtual voltada à formação em arquitetura de software.
+[![Architect Academy](https://img.shields.io/badge/GitHub-Architect%20Academy-181717?style=for-the-badge\&logo=github)](https://github.com/alexnfeitozad/ArchitectAcademy)
 
-Explora:
+Projeto voltado ao estudo e prática de arquitetura de software.
+
+**Conceitos:**
 
 * Clean Architecture
-* DDD e CQRS
-* Blazor Server
+* DDD
+* CQRS
+* Blazor
 * SQL Server
-
-Outros projetos estão disponíveis nos perfis [anfsusax](https://github.com/anfsusax?tab=repositories) e [alexnfeitozad](https://github.com/alexnfeitozad?tab=repositories).
+* Arquitetura de aplicações corporativas
 
 ---
 
-## 🎯 Direção
+### 🏗️ Arquitetura .NET na Prática
 
-Atuar como Tech Lead / Technical Lead .NET, combinando experiência hands-on, decisões arquiteturais, direcionamento de soluções e apoio técnico para entregar software alinhado às necessidades do negócio.
+Projeto de estudos e documentação sobre arquitetura de software utilizando o ecossistema .NET.
+
+Conteúdos relacionados a:
+
+* Microsserviços
+* Clean Architecture
+* DDD
+* Integrações
+* APIs
+* Mensageria
+* Boas práticas de desenvolvimento
+
+[🌐 Acessar projeto](https://arquitetura-microservicos-dotnet.vercel.app/)
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img 
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=anfsusax&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
+
+<img 
+ height="180"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=anfsusax&theme=tokyonight&layout=compact&langs_count=8"
+/>
+
+</p>
+
+---
+
+## 🎯 Atualmente estudando
+
+Minha evolução técnica está concentrada principalmente em:
+
+* Arquitetura avançada de software
+* .NET moderno
+* Microsserviços
+* Sistemas distribuídos
+* Blazor
+* React
+* IA aplicada ao desenvolvimento de software
+* Agentes de IA para engenharia de software
+* Cloud e arquitetura serverless
+* Observabilidade
+* Engenharia de integração
+
+---
+
+## 📚 Filosofia de Engenharia
+
+> **Software não deve apenas funcionar. Deve ser compreensível, observável, testável e capaz de evoluir.**
+
+Busco equilibrar **qualidade técnica, simplicidade arquitetural e necessidades reais do negócio**, evitando complexidade sem justificativa.
 
 ---
 
 ## 📫 Contato
 
-LinkedIn:
-https://linkedin.com/in/alex-feitoza-6056a5237
+**LinkedIn**
+https://www.linkedin.com/in/alex-feitoza-6056a5237/
 
-GitHub:
+**GitHub**
 https://github.com/anfsusax
 
-Email:
+**YouTube**
+https://www.youtube.com/@alexnfeitozafeitoza
+
+**Facebook**
+https://www.facebook.com/alexdevelopnet
+
+**Email**
 [alexdevelopnet@gmail.com](mailto:alexdevelopnet@gmail.com)
 
 ---
 
-> Arquitetura não é apenas organizar código. É transformar conhecimento em software sustentável.
+<p align="center">
+  <i>Construindo software, estudando arquitetura e compartilhando conhecimento.</i>
+</p>
